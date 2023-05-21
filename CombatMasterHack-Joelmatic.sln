@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatMasterHack-Joelmatic", "CombatMasterHack-Joelmatic\CombatMasterHack-Joelmatic.csproj", "{21EBAADB-F22E-47EA-B76C-B2BABFCEF1B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EBAADB-F22E-47EA-B76C-B2BABFCEF1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EBAADB-F22E-47EA-B76C-B2BABFCEF1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EBAADB-F22E-47EA-B76C-B2BABFCEF1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EBAADB-F22E-47EA-B76C-B2BABFCEF1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683D7106-1C82-4457-BDE7-7798AF3B4F9D}
+	EndGlobalSection
+EndGlobal
