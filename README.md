@@ -1,28 +1,63 @@
-
 # Combat-Master-Unlocker
 
+I wanted a tool that could unlock content without using "real" cheats, and I decided to release it for others to enjoy.
 
-I wanted a tool that was for unlocking stuff and did not have any "real" cheats in it and felt like I should release it for others.
+## Table of Contents
 
-Melon loader: https://melonwiki.xyz/
+- [Melon Loader](#melon-loader)
+- [Unlocker Download](#unlocker-download)
+- [Features](#features)
+- [Source Code](#source-code)
+- [Contributing](#Contributing)
 
-Unlocker Download: https://github.com/TheRealJoelmatic/Combat-Master-Unlocker/releases/tag/hacks
+## Melon Loader
 
-Source code: https://github.com/TheRealJoelmatic/...aster-Unlocker
+To use this unlocker, you'll need to have Melon Loader installed. Melon Loader is a modding framework for Unity games. You can find more information about Melon Loader and how to install it on the [Melon Wiki](https://melonwiki.xyz/).
 
-F5 to toggle the menu
+## Unlocker Download
 
-# Features
+You can download the Combat-Master-Unlocker from the [Releases](https://github.com/TheRealJoelmatic/Combat-Master-Unlocker/releases/tag/hacks) page of this repository.
 
-- Weapon blueprints
-- Camo Challenges
-- Operator
-- Emblems
-- Wristband
-- Reticles
+## Features
 
-- Max level
-- XP Boost
-- Battle Pass
-- Free Bundles
+- Weapon blueprints unlocking
+- Camo challenges completion
+- Operator customization
+- Emblems unlocking
+- Wristband selection
+- Reticle customization
 
+- Max level achievement
+- XP Boost activation
+- Battle Pass unlocking
+- Free Bundles acquisition
+
+To toggle the menu, press F5.
+
+Please note that using this unlocker may impact your gameplay experience or violate the terms of service of the game. Use it responsibly and at your own risk.
+
+Feel free to reach out to me on Discord at Joelmatic#8817 for any inquiries or suggestions regarding the Combat-Master-Unlocker.
+
+Thank you for using the Combat-Master-Unlocker! Enjoy unlocking the content and have fun in the game!
+
+## Source Code
+
+The source code for the Combat-Master-Unlocker is available on [GitHub](https://github.com/TheRealJoelmatic/Combat-Master-Unlocker). Feel free to explore, contribute, or modify the code as per your requirements.
+
+
+## Contributing
+
+We welcome contributions from the community to enhance this website. If you would like to contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name: `git checkout -b feature/my-awesome-contribution`.
+3. Make your changes and test thoroughly.
+4. Commit your changes: `git commit -m "Add my awesome contribution"`.
+5. Push to the branch: `git push origin feature/my-awesome-contribution`.
+6. Open a pull request on GitHub.
+
+Please ensure your contributions adhere to our code of conduct.
+
+##
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
