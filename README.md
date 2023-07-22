@@ -1,40 +1,79 @@
-# 🌕 Matic clicker 🌕
-Minecraft auto-clicker made in modern C++, performance optimized and easy to use. 
+# Combat-Master-Unlocker
 
-# Pictures
+I wanted a tool that could unlock content without using "real" cheats, and I decided to release it for others to enjoy.
 
-![image](https://i.ibb.co/HKTwKtH/1.jpg)
-#
-![image](https://i.ibb.co/2y86pYq/2.jpg)
-#
-![image](https://i.ibb.co/tx3K6FJ/3.jpg)
+## Table of Contents
 
-# Getting started
+- [Melon Loader](#melon-loader)
+- [Unlocker Download](#unlocker-download)
+- [Features](#features)
+- [Source Code](#source-code)
+- [Contributing](#Contributing)
 
-## Download
-Download the latest release at the [releases section](https://github.com/TheRealJoelmatic/Matic-Clicker/releases/tag/Release).
+## Melon Loader
 
-## Bugs or suggestions
-Bugs or suggestions should be reported at the [issues section](https://github.com/TheRealJoelmatic/Matic-Clicker/issues).
+To use this unlocker, you'll need to have Melon Loader installed. Melon Loader is a modding framework for Unity games. You can find more information about Melon Loader and how to install it on the [Melon Wiki](https://melonwiki.xyz/).
 
-## Compiling
-### Prerequisites
-Microsoft Visual Studio (Preferably the latest version) with C++ installed.
+## Unlocker Download
 
-### Compiling from the source
-Open the solution file `clicker.sln`, then select `Release | x64` on the Build configuration and press Build solution.
+You can download the Combat-Master-Unlocker from the [Releases](https://github.com/TheRealJoelmatic/Combat-Master-Unlocker/releases/tag/hacks) page of this repository.
 
-### Compiling errors
-If you get errors related to DirectX, please install the DirectX Software Development Kit.
-- https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812
+## Features
 
-## Errors
-### vcruntime140.dll and msvcp140.dll errors
-That happens because you don't have the runtime and libraries required for this to run.  
-Please install preferably both `x86` and `x64` packages of the VC++ 2019 runtime linked below.
-- https://aka.ms/vs/16/release/vc_redist.x86.exe
-- https://aka.ms/vs/16/release/vc_redist.x64.exe
+- Weapon blueprints unlocking
+- Camo challenges completion
+- Operator customization
+- Emblems unlocking
+- Wristband selection
+- Reticle customization
 
-### d3d9.dll error
-Install the following
-- https://www.microsoft.com/en-us/download/confirmation.aspx?id=35
+- Max level achievement
+- XP Boost activation
+- Battle Pass unlocking
+- Free Bundles acquisition
+
+To toggle the menu, press F5.
+
+Please note that using this unlocker may impact your gameplay experience or violate the terms of service of the game. Use it responsibly and at your own risk.
+
+Feel free to reach out to me on Discord at Joelmatic#8817 for any inquiries or suggestions regarding the Combat-Master-Unlocker.
+
+Thank you for using the Combat-Master-Unlocker! Enjoy unlocking the content and have fun in the game!
+
+I wanted a tool that was for unlocking stuff and did not have any "real" cheats in it and felt like I should release it for others.
+## Source Code
+
+Melon loader: https://melonwiki.xyz/
+The source code for the Combat-Master-Unlocker is available on [GitHub](https://github.com/TheRealJoelmatic/Combat-Master-Unlocker). Feel free to explore, contribute, or modify the code as per your requirements.
+
+Unlocker Download: https://github.com/TheRealJoelmatic/Combat-Master-Unlocker/releases/tag/hacks
+
+Source code: https://github.com/TheRealJoelmatic/...aster-Unlocker
+## Contributing
+
+F5 to toggle the menu
+We welcome contributions from the community to enhance this website. If you would like to contribute, please follow these steps:
+
+# Features
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name: `git checkout -b feature/my-awesome-contribution`.
+3. Make your changes and test thoroughly.
+4. Commit your changes: `git commit -m "Add my awesome contribution"`.
+5. Push to the branch: `git push origin feature/my-awesome-contribution`.
+6. Open a pull request on GitHub.
+
+- Weapon blueprints
+- Camo Challenges
+- Operator
+- Emblems
+- Wristband
+- Reticles
+Please ensure your contributions adhere to our code of conduct.
+
+- Max level
+- XP Boost
+- Battle Pass
+- Free Bundles
+##
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
