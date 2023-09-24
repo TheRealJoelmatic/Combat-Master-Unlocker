@@ -1,5 +1,6 @@
 # Combat-Master-Unlocker
 
+- THIS IS NOW PATCHED
 I wanted a tool that could unlock content without using "real" cheats, and I decided to release it for others to enjoy.
 
 ## Table of Contents
