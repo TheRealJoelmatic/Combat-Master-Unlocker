@@ -1,3 +1,6 @@
+# THIS PATCH IN THE LATEST VERSION OF COMBAT MASTERS
+If you Want to still unlock all the bundles you still can using this method.
+[https://www.unknowncheats.me/forum/combat-master/604096-combat-master-battlpass.html](https://www.unknowncheats.me/forum/combat-master/604096-combat-master-battlpass.html)
 # Combat-Master-Unlocker
 
 - THIS IS NOW PATCHED
