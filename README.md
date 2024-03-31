@@ -6,6 +6,9 @@ If you Want to still unlock all the bundles you still can using this method.
 - THIS IS NOW PATCHED
 I wanted a tool that could unlock content without using "real" cheats, and I decided to release it for others to enjoy.
 
+
+- Looking for a combat master hack client
+Check out - > [https://discord.gg/2azx3GbPbz](https://discord.gg/2azx3GbPbz)
 ## Table of Contents
 
 - [Melon Loader](#melon-loader)
