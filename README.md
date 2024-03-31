@@ -7,7 +7,7 @@ If you Want to still unlock all the bundles you still can using this method.
 I wanted a tool that could unlock content without using "real" cheats, and I decided to release it for others to enjoy.
 
 
-- Looking for a combat master hack client
+# Looking for a combat master hack client?
 Check out - > [https://discord.gg/2azx3GbPbz](https://discord.gg/2azx3GbPbz)
 ## Table of Contents
 
