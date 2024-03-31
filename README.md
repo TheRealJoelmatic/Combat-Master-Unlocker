@@ -56,31 +56,18 @@ The source code for the Combat-Master-Unlocker is available on [GitHub](https://
 Unlocker Download: https://github.com/TheRealJoelmatic/Combat-Master-Unlocker/releases/tag/hacks
 
 Source code: https://github.com/TheRealJoelmatic/...aster-Unlocker
-## Contributing
-
-F5 to toggle the menu
-We welcome contributions from the community to enhance this website. If you would like to contribute, please follow these steps:
 
 # Features
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name: `git checkout -b feature/my-awesome-contribution`.
-3. Make your changes and test thoroughly.
-4. Commit your changes: `git commit -m "Add my awesome contribution"`.
-5. Push to the branch: `git push origin feature/my-awesome-contribution`.
-6. Open a pull request on GitHub.
-
+F5 to toggle the menu
 - Weapon blueprints
 - Camo Challenges
 - Operator
 - Emblems
 - Wristband
 - Reticles
-Please ensure your contributions adhere to our code of conduct.
-
 - Max level
 - XP Boost
 - Battle Pass
 - Free Bundles
-##
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
